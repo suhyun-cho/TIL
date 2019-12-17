@@ -1,2 +1,3 @@
-# TIL
-Today I Learned
+# Today I Learned
+* 시작일 : 2019-12-17
+* 업무를 하다가 혹은 공부하다가 정리하면 좋을것 같은 내용을 기록합니다.
