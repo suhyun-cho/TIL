@@ -45,20 +45,20 @@ learning rate가 높을 수록 빠르게 모델의 bias를 줄여나가지만, l
 > * eta : learning rate, default = 0.3 [0,1]
     * eta는 'Step size shrinkage'로 학습 단계별로 가중치를 얼마나 적용할 지 결정하는 숫자. 
     낮을수록 보수적인 모델이 된다. (다음 단계의 결과물을 적게 반영하기 때문)
-* gamma : min split loss, default = 0, [0,무한대]
+> * gamma : min split loss, default = 0, [0,무한대]
     * Gamma를 이해하기 위해서는 먼저 information gain이라는 것을 이해해야 한다. 
         * information gain은 의사결정나무가 가지를 칠 때, 즉 새로운 변수를 기준으로 데이터를 분류할 때 타겟 변수에 대해 얼마나 설명할 수 있는지를 측정하는 기준.
     * Gamma는 계산한 information gain에 패널티를 부여하는 숫자. <br>
     즉, 이값이 커질수록 의사결정나무들은 가지를 잘 만들려 하지 않게 되며, 이에 따라 보수적인 모델이 된다.
-* max_depth : default = 6
+> * max_depth : default = 6
     * 의사결정나무의 깊이의 한도. 커질수록 더 복잡한 모델이 생성되며, 이는 overfitting의 문제를 일으킬 수 있다. 
-* subsample : default=1
+> * subsample : default=1
     * training데이터셋에서 subset을 만들지, 전부를 사용할지 정하는 파라미터.<br>
     매번 나무를 만들 때 적용하며 overfitting문제를 방지하려고 사용.
-* colsample_bytree : default=1
+> * colsample_bytree : default=1
     * 나무를 만들 때 칼럼, 즉 변수를 샘플링해서 쓸지에 대한 파라미터. <br>
     나무를 만들기 전 한 번 샘플링을 하게 됨.
-* scale_pos_weight : default=1
+> * scale_pos_weight : default=1
     * 분류 모델에서 사용하는 가중치 파라미터로, 극단적으로 적은 타겟값이 존재하는 문제에서 유용.
 
 
