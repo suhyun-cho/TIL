@@ -20,7 +20,7 @@ https://synapse.koreamed.org/Synapse/Data/PDFData/0130HMR/hmr-35-40.pdf <br>
 * 효과크기란 비교하려는 집단 사이의 실제 차이를 나타내는데, 개별 측정 단위에 따라 해석이 어려워질 수 있다.
     * 따라서 개별 측정 단위에 영향을 받지 않도록 효과크기를 그 산포정도 (표준편차 등)로 나누어 단위에 상관없이 사용할 수 있도록 한 index가 사용된다.
 
-<img src="effect-size-table.PNG" width="1000"> <br>
+<img src="./pic/effect-size-table.PNG" width="1000"> <br>
 
 
 #### 효과크기 사용의 장점
@@ -60,11 +60,11 @@ https://synapse.koreamed.org/Synapse/Data/PDFData/0130HMR/hmr-35-40.pdf <br>
 * 두 개 집단의 모평균은 실제 같은데도 잘못해서 귀무가설을 기각하게 될 확률 (모평균이 같지 않은 것으로 판단할 확률)
     * 5%의 유의성이란, 테스트 결과가 '사실이 아닐 확률'이 5%라는 뜻 (또는 사실일 확률이 95%)
     
-<img src="type1,2_error.PNG" width="500"> <br>
+<img src="./pic/type1,2_error.PNG" width="500"> <br>
 
-<img src="type_error_plot.PNG" width="500"> <br>
+<img src="./pic/type_error_plot.PNG" width="500"> <br>
 
-<img src="type_error_plot2.PNG" width="500"> <br>
+<img src="./pic/type_error_plot2.PNG" width="500"> <br>
 
 * 1종오류 : alpha
 * 2종오류 : beta
