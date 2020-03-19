@@ -227,7 +227,7 @@ ax.set_ylim(buttom+0.5, top-0.9)
 
 
 
-![png](output_14_1.png)
+![png](./pic/output_14_1.png)
 
 
 ------------------------------------------
@@ -410,7 +410,7 @@ ax.set_ylim(buttom+0.5, top-0.9)
 
 
 
-![png](output_26_1.png)
+![png](./pic/output_26_1.png)
 
 
 ### **outlier 제거 and 스케일링**
@@ -515,7 +515,7 @@ ax.set_ylim(buttom+0.5, top-0.9)
 
 
 
-![png](output_31_1.png)
+![png](./pic/output_31_1.png)
 
 
 
