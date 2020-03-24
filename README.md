@@ -4,10 +4,10 @@
 
 # Contents
 ### Machine-Learning-Algorithm
-> * XGBoost
-  * K-Means Clustering
-  * Clustering-theory
-  * K-Nearest-Neighbor
+>  * XGBoost
+>  * K-Means Clustering
+>  * Clustering-theory
+>  * K-Nearest-Neighbor
   
 > ### R
   * R-shiny-basic
