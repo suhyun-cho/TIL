@@ -3,8 +3,8 @@
 * 업무를 하다가 혹은 공부하다가 정리하면 좋을것 같은 내용을 기록합니다.
 
 # Contents
-> ### Machine-Learning-Algorithm
-  * XGBoost
+### Machine-Learning-Algorithm
+> * XGBoost
   * K-Means Clustering
   * Clustering-theory
   * K-Nearest-Neighbor
