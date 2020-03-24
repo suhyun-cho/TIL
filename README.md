@@ -4,19 +4,19 @@
 
 # Contents
 ### Machine-Learning-Algorithm
->  * XGBoost
->  * K-Means Clustering
->  * Clustering-theory
->  * K-Nearest-Neighbor
+> * XGBoost
+> * K-Means Clustering
+> * Clustering-theory
+> * K-Nearest-Neighbor
   
-> ### R
-  * R-shiny-basic
+### R
+> * R-shiny-basic
   
-> ### Statistics
-  * Sample-size and Effect-size
-  * Correlation
+### Statistics
+> * Sample-size and Effect-size
+> * Correlation
   
-> ### Python
-  * matplotlib-hangeul-problem
-  * diff between histogram-densityplot
+### Python
+> * matplotlib-hangeul-problem
+> * diff between histogram-densityplot
 
