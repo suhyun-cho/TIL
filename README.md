@@ -8,6 +8,8 @@
 > * K-Means Clustering
 > * Clustering-theory
 > * K-Nearest-Neighbor
+> * Bootstrap
+> * DecisionTree-bagging-boosting
   
 ### R
 > * R-shiny-basic
