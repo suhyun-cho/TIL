@@ -21,4 +21,5 @@
 ### Python
 > * matplotlib-hangeul-problem
 > * diff between histogram-densityplot
-
+> * Normalization
+> * Max-value-of-each-row
