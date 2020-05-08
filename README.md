@@ -17,6 +17,7 @@
 ### Statistics
 > * Sample-size and Effect-size
 > * Correlation
+> * Sampling
   
 ### Python
 > * matplotlib-hangeul-problem
