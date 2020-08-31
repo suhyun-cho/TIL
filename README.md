@@ -18,6 +18,7 @@
 > * Sample-size and Effect-size
 > * Correlation
 > * Sampling
+> * non-parametric-test
   
 ### Python
 > * matplotlib-hangeul-problem
